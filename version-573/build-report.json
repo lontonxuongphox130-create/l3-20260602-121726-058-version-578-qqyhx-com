@@ -1,0 +1,23 @@
+{
+  "site_title": "国产电影大全-热门国产影片片库-高清电影免费在线观看",
+  "logo": "国产电影大全",
+  "parsed_movie_count": 2000,
+  "template_records_cleaned": 22,
+  "category_counts": {
+    "热门推荐": 200,
+    "国产精选": 200,
+    "日韩剧场": 200,
+    "欧美片库": 200,
+    "动作犯罪": 200,
+    "喜剧生活": 200,
+    "悬疑惊悚": 200,
+    "爱情剧情": 200,
+    "奇幻动画": 200,
+    "年度新片": 200
+  },
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "hls_sources": 20,
+  "jpg_files_included": 0,
+  "generated_at": "2026-05-24T18:43:59.265039Z"
+}
